@@ -6,7 +6,7 @@ Customer churn is one of the most important business metrics for subscription-ba
 
 The objective is to uncover actionable insights that can help businesses improve customer retention and reduce churn.
 
----
+--- 
 
 ## 🎯 Objectives
 
